@@ -7,6 +7,7 @@ from polynomial import Polynomial
 import time
 from PolynomialTS import PolynomialTS
 from z3 import *
+from z3 import Real
 import os
 import time
 
